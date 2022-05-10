@@ -1,0 +1,10 @@
+@import "./primeVue/theme.css";
+@font-face {
+    font-family: "Monserrat";
+    src: url('../Fonts/Montserrat/Montserrat-Regular.ttf');
+}
+@font-face {
+    font-family: "Monserrat";
+    src: url('../Fonts/Montserrat/Montserrat-Bold.ttf');
+    font-weight: bold;
+}
